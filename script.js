@@ -12,7 +12,7 @@ let confett = document.querySelector("#my-canvas");
 
 
 function bollsY() {
-    image.setAttribute("src", "baseYeGr.png");
+    image.setAttribute("src", "src/baseYeGr.png");
     text.textContent = "Choose a garland";
     btnOne.textContent = "Red";
     btnTwo.textContent = "Gold";
@@ -22,7 +22,7 @@ function bollsY() {
 }
 
 function garlR() {
-    image.setAttribute("src", "baseYeGrRedG.png");    
+    image.setAttribute("src", "src/baseYeGrRedG.png");    
     text.textContent = "Choose gifts";
     btnOne.textContent = "Many";
     btnTwo.textContent = "Even more";
@@ -32,7 +32,7 @@ function garlR() {
 }
 
 function garlG() {
-    image.setAttribute("src", "baseYeGrGoldG.png");
+    image.setAttribute("src", "src/baseYeGrGoldG.png");
     text.textContent = "Choose gifts";
     btnOne.textContent = "Many";
     btnTwo.textContent = "Even more";
@@ -42,7 +42,7 @@ function garlG() {
 }
 
 function giftGoldM() {
-    image.setAttribute("src", "baseYeGrGoldGgift.png");    
+    image.setAttribute("src", "src/baseYeGrGoldGgift.png");    
     text.style = "display: none";
     textB.textContent = "MARRY  CHRISTMAS !!!"
     btnOne.style = "display: none";
@@ -53,7 +53,7 @@ function giftGoldM() {
 }
 
 function giftGoldEm() {
-    image.setAttribute("src", "baseYeGrGoldGgiftEM.png");    
+    image.setAttribute("src", "src/baseYeGrGoldGgiftEM.png");    
     text.style = "display: none";
     textB.textContent = "MARRY  CHRISTMAS !!!"
     btnOne.style = "display: none";
@@ -64,7 +64,7 @@ function giftGoldEm() {
 }
 
 function giftEm() {
-    image.setAttribute("src", "baseYeGrRedGgiftEM.png");    
+    image.setAttribute("src", "src/baseYeGrRedGgiftEM.png");    
     text.style = "display: none";
     textB.textContent = "MARRY  CHRISTMAS !!!"
     btnOne.style = "display: none";
@@ -75,7 +75,7 @@ function giftEm() {
 }
 
 function giftM() {
-    image.setAttribute("src", "baseYeGrRedGgift.png");    
+    image.setAttribute("src", "src/baseYeGrRedGgift.png");    
     text.style = "display: none";
     textB.textContent = "MARRY  CHRISTMAS !!!"
     btnOne.style = "display: none";
@@ -86,7 +86,7 @@ function giftM() {
 }
 
 function bollsS() {
-    image.setAttribute("src", "baseSil.png");
+    image.setAttribute("src", "src/baseSil.png");
     text.textContent = "Choose a garland";
     btnOne.textContent = "Red";
     btnTwo.textContent = "Gold";
@@ -96,7 +96,7 @@ function bollsS() {
 }
 
 function garlSilRed() {
-    image.setAttribute("src", "baseSilRedG.png");
+    image.setAttribute("src", "src/baseSilRedG.png");
     text.textContent = "Choose gifts";
     btnOne.textContent = "Many";
     btnTwo.textContent = "Even more!";
@@ -106,7 +106,7 @@ function garlSilRed() {
 }
 
 function giftSilM() {
-    image.setAttribute("src", "baseSilRedGgift.png");    
+    image.setAttribute("src", "src/baseSilRedGgift.png");    
     text.style = "display: none";
     textB.textContent = "MARRY  CHRISTMAS !!!"
     btnOne.style = "display: none";
@@ -117,7 +117,7 @@ function giftSilM() {
 }
 
 function giftSilEm() {
-    image.setAttribute("src", "baseSilRedGgiftEM.png");    
+    image.setAttribute("src", "src/baseSilRedGgiftEM.png");    
     text.style = "display: none";
     textB.textContent = "MARRY  CHRISTMAS !!!"
     btnOne.style = "display: none";
@@ -128,7 +128,7 @@ function giftSilEm() {
 }
 
 function garlSilGold() {
-    image.setAttribute("src", "baseSilGoldG.png");
+    image.setAttribute("src", "src/baseSilGoldG.png");
     text.textContent = "Choose gifts";
     btnOne.textContent = "Many";
     btnTwo.textContent = "Even more";
@@ -138,7 +138,7 @@ function garlSilGold() {
 }
 
 function giftSilGM() {
-    image.setAttribute("src", "baseSilGoldGgift.png");    
+    image.setAttribute("src", "src/baseSilGoldGgift.png");    
     text.style = "display: none";
     textB.textContent = "MARRY  CHRISTMAS !!!"
     btnOne.style = "display: none";
@@ -149,7 +149,7 @@ function giftSilGM() {
 }
 
 function giftSilGEm() {
-    image.setAttribute("src", "baseSilGoldGgiftEM.png");    
+    image.setAttribute("src", "src/baseSilGoldGgiftEM.png");    
     text.style = "display: none";
     textB.textContent = "MARRY  CHRISTMAS !!!"
     btnOne.style = "display: none";
