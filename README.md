@@ -11,4 +11,4 @@ You will have several options, and this is one of the results:
 Here you can see the short video:
 https://www.linkedin.com/feed/update/urn:li:activity:6878789839500656640/
 
-Wath my app here:    https://decorate-christmas-tree.glitch.me/
+Watch my app here:    https://decorate-christmas-tree.glitch.me/
